@@ -1,0 +1,46 @@
+
+
+
+body {
+  padding-top: 300px;
+  background-color: white;
+  margin: 0;
+  position: relative;
+  background-image: url('images/celebration.gif');
+  text-align: center;
+}
+
+h1 {
+  line-height: 4;
+  color: black;
+  font-size: 2.625rem;
+  font-family: 'Sacramento', cursive;
+}
+.h1{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1;
+  width: 50%;
+  font-size: 2rem;
+  margin: 50px auto;
+}
+.riya{
+
+  width:300px;
+  height: auto;
+}
+.g1{
+  width: 300px;
+  height: auto;
+}
+.g2{
+  width: 300px;
+  height: auto;
+}
+.g3{
+  width: 300px;
+  height: auto;
+}
+.g4{
+  width: 300px;
+  height: auto;
+}
